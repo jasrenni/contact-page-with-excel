@@ -1,0 +1,370 @@
+.desktop-7-child {
+  position: absolute;
+  top: calc(50% - 395px);
+  left: 0;
+  background-color: var(--color-snow);
+  width: 1440px;
+  height: 918px;
+}
+.image-icon {
+  position: absolute;
+  top: 0;
+  left: -19px;
+  width: 1600px;
+  height: 1058px;
+  object-fit: cover;
+  z-index: 0; 
+}
+.frame-child {
+  position: absolute;
+  top: 21px;
+  left: 1277px;
+  border-radius: 44px;
+  background: linear-gradient(180deg, #ff1f00, #fa00ff 77.19%);
+  width: 140px;
+  height: 40px;
+}
+.about,
+.home,
+.portfolio,
+.service {
+  position: absolute;
+  top: 28px;
+  left: 667px;
+  color: #f7f5f5;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 106px;
+  height: 44px;
+}
+.about,
+.portfolio,
+.service {
+  left: 773px;
+  width: 112px;
+  height: 48px;
+}
+.portfolio,
+.service {
+  top: 28px;
+  left: 885px;
+  width: 116px;
+  height: 36px;
+}
+.portfolio {
+  top: 28px;
+  left: 1004px;
+  width: 153px;
+  height: 28px;
+}
+.image-icon1 {
+  position: absolute;
+  top: 8px;
+  left: 15px;
+  width: 200px;
+  height: 90px;
+  object-fit: cover;
+  z-index: 9999;
+}
+.contact,
+.products {
+  position: absolute;
+  color: #f7f5f5;
+  top: 28px;
+  left: 1295px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 145px;
+  height: 38px;
+}
+.products {
+  top: 28px;
+  left: 1142px;
+  width: 135px;
+  height: 48px;
+  color: #f7f5f5;
+}
+.rectangle-parent {
+  position: absolute;
+  top: -12px;
+  left: 0;
+  border-radius: 2px;
+  background-color: #7b78ff;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-sizing: border-box;
+  width: 1550px;
+  height: 80px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.let-start {
+  font-weight: 500;
+}
+.a-conversation {
+  font-weight: 600;
+  background: linear-gradient(180deg, #ff1f00, rgba(250, 0, 255, 0.83));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.let-start-a-container {
+  position: absolute;
+  top: 85px;
+  left: 16px;
+  font-size: 70px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1035px;
+  height: 123px;
+  color: #000;
+}
+.image-icon2 {
+  position: absolute;
+  top: 230px;
+  left: 550px;
+  width: 828px;
+  height: 391px;
+  object-fit: cover;
+}
+
+.book-a-free,
+.name {
+  position: absolute;
+  top: 0px;
+  left: 43px;
+  font-weight: 600;
+  display: inline-block;
+  width: 367px;
+  height: 52px;
+}
+.name {
+  top: 67px;
+  font-weight: 300;
+  color: var(--color-gray-200);
+  width: 108px;
+  height: 47px;
+}
+.frame-inner,
+.frame-item,
+.line-icon {
+  position: absolute;
+  top: 171px;
+  left: 45px;
+  width: 366px;
+  height: 3px;
+  object-fit: contain;
+ 
+}
+.frame-inner,
+.line-icon {
+  top: 269px;
+}
+.line-icon {
+  top: 425px;
+  left: 43px;
+}
+.e-mail,
+.your-message {
+  position: absolute;
+  top: 140px;
+  left: 43px;
+  font-weight: 300;
+  display: inline-block;
+  width: 108px;
+  height: 52px;
+}
+.your-message {
+  top: 220px;
+  left: 45px;
+  color: var(--color-gray-200);
+  width: 263px;
+  height: 63px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 375px;
+  left: 127px;
+  border-radius: 20px;
+  background-color: #584aff;
+  width: 120px;
+  height: 35px;
+}
+.submit {
+  position: absolute;
+  top: 375px;
+  left: 127px;
+  font-weight: 500;
+  border-radius: 20px;
+  background-color: #584aff;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  display: inline-block;
+  width: 120px;
+  height: 35px;
+  border: #584aff;
+}
+.book-a-free-demo-today-parent {
+  position: absolute;
+  top: 321px;
+  left: 100px;
+  background-color: var(--color-white);
+  width: 454px;
+  height: 555px;
+  overflow: hidden;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-niramit);
+}
+.address {
+  margin: 0;
+}
+.th-floor {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.address-4th-floor-container {
+  position: absolute;
+  top: 700px;
+  left: 610px;
+  font-weight: 500;
+  display: inline-block;
+  width: 219px;
+  height: 223px;
+}
+.image-icon3,
+.image-icon4 {
+  position: absolute;
+  top: 650px;
+  left: 554px;
+  width: 59px;
+  height: 50px;
+  object-fit: cover;
+}
+.image-icon4 {
+  top: 650px;
+  left: 834px;
+  width: 56px;
+  height: 43px;
+}
+.dial-e-mail {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.dial-e-mail-container {
+  position: absolute;
+  top: 700px;
+  left: 895px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 235px;
+  height: 154px;
+  font-size: var(--font-size-base);
+}
+.image-icon5 {
+  position: absolute;
+  top: 650px;
+  left: 1131px;
+  width: 51px;
+  height: 40px;
+  object-fit: cover;
+}
+.hours1 {
+  font-weight: 600;
+}
+.hours-monday-friday-10am-7pm {
+  position: absolute;
+  top: 700px;
+  left: 1197px;
+  color: #130d0d;
+  display: inline-block;
+  width: 221px;
+  height: 108px;
+}
+.desktop-7 {
+  position: relative;
+  background-color: var(--color-snow);
+  width: 100%;
+  height: 857px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-poppins);
+}
+
+
+.rectangle-box {
+  position: absolute;
+  top: 250px; /* Adjust the top position as needed */
+  left: 100px; /* Adjust the left position as needed */
+  width: 400px;
+  height: 500px;
+  background-color: #f7f5f5;
+  border-radius: 10px; 
+  z-index: 0; /* Make sure it's above other elements */
+}
+
+
+.name1{
+  position: absolute;
+  width: 300px;
+  top: 88px;
+  left: 45px;
+  background-color:whitesmoke;
+  border:none;
+  border-style: none;
+}
+.e-mail1 {
+  position: absolute;
+  top: 164px; /* Adjust this value to change the top position */
+  left: 45px; /* Adjust this value to change the left position */
+  width: 300px;
+  background-color: whitesmoke;
+  border:none;
+  border-style: none;; /* Adjust width as needed */
+  padding: 8px; /* Adjust padding as needed */
+  background-color: whitesmoke;
+  border:none;
+  border-style: none;
+}
+.line {
+  position: absolute;
+  bottom: 0;
+  top: 120px;
+  left: 45px;
+  width: 70%;
+  height: 1px;
+  background-color: #000; /* Set the line color */
+}
+
+/* ... (existing styles) */
+.e-mail-container,
+.line1{
+  position: absolute;
+  bottom: 0;
+  top: 196px;
+  left: 45px;
+  width: 70%;
+  height: 1px;
+  background-color: #000;
+
+}
+.rectangle-below-message {
+  position: absolute;
+  top: 250px; /* Adjust the top position as needed */
+  left: 45px; /* Adjust the left position as needed */
+  background-color: #f8d8ed;
+  width: 70%; /* Adjust the width as needed */
+  height: 95px; /* Adjust the height as needed */
+}
+
+
+.book-a-free-demo-today-parent input[type="text"],
+.book-a-free-demo-today-parent input[type="email"],
+.book-a-free-demo-today-parent textarea {
+  width: 302px; /* Make the inputs and textarea full width */
+  padding: 8px; /* Adjust padding as needed */
+  margin-bottom: 10px; 
+
+}
